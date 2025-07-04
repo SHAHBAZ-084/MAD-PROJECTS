@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705393853927",
+    "project_id": "splitsmart-shahbaz",
+    "storage_bucket": "splitsmart-shahbaz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705393853927:android:826337d56598d68441a942",
+        "android_client_info": {
+          "package_name": "com.example.splitsmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuCg-x-iy0uDAmVnF0G1nYn5LL1geyMzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
